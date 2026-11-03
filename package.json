@@ -18,17 +18,17 @@
     "bootstrap-vue": "^2.11.0",
     "bootswatch": "^4.4.1",
     "core-js": "^3.6.4",
-    "node-sass": "^4.13.1",
-    "sass-loader": "^8.0.2",
+    "node-sass": "^9.0.0",
+    "sass-loader": "^17.1.0",
     "vue": "^2.6.11"
   },
   "devDependencies": {
-    "@vue/cli-plugin-babel": "^4.3.0",
-    "@vue/cli-plugin-eslint": "^4.3.0",
-    "@vue/cli-service": "^4.3.0",
+    "@vue/cli-plugin-babel": "^5.0.9",
+    "@vue/cli-plugin-eslint": "^5.0.9",
+    "@vue/cli-service": "^5.0.9",
     "babel-eslint": "^10.1.0",
     "css-loader": "^3.5.2",
-    "eslint": "^6.7.2",
+    "eslint": "^10.14.0",
     "eslint-plugin-vue": "^6.2.2",
     "vue-template-compiler": "^2.6.11"
   },
